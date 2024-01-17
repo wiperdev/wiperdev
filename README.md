@@ -17,7 +17,7 @@ My discord is: @wiperw
 <br/>  
 
 
-## Rapidfire  
+## About Me  
 <table><tr><td valign="top" width="50%">
 
 - 💪 I'm lore of data scraping, bots and automation on Python. I can create your GUI desktop applications and most.  
@@ -26,7 +26,7 @@ My discord is: @wiperw
 - ⚡ I’m currently learning back-end API & database management with PHP.  
   
 
-- 🔭 I’m currently working on [SMS Tool](https://github.com/rishavanand/SMS-Tool).  
+- 🔭 I’m currently working on [SMS Tool](https://github.com/wiperdev/SMS-Tool).  
   
 
 - 🔑 Reverse engineer a little bit.  
@@ -74,13 +74,4 @@ My discord is: @wiperw
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=wiperdev&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![Profile views counter](https://komarev.com/ghpvc/?username=wiperdev&&style=flat-square)
